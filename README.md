@@ -1,1 +1,1 @@
-# Returns_Earnings_Announcementss
+# Python code to merge financial data from earnings announcements with stock price data. Both datasets are from Sharadar and obtained via Quandl's API. The code considers earnings announced on non-trading days prior to the merge and includes a function that takes a reserarcher-specified number of days for the event window to calculate the returns.  
